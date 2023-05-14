@@ -13,7 +13,7 @@
     -------------------------------------------------------------------------------
     1. Участник 1
     2. Имя участника Владимир
-    3. За основу взят чат из вебинара https://apps.skillfactory.ru/learning/course/course-v1:SkillFactory+CPLUS+2020/block-v1:SkillFactory+CPLUS+2020+type@sequential+block@1b7bd4faa0904589ade077f64bdfe672/block-v1:SkillFactory+CPLUS+2020+type@vertical+block@388f51e1fa9f4c81bb5a74f4500e4ff8
+    3. За основу взят чат из вебинара - 3/31  Вебинар «Пишем консольный чат вместе с ментором»
     
 
     --------------------------------------------------------------------------------
